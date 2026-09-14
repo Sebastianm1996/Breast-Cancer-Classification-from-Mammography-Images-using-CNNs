@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project was developed for the **Autonomous Learning (Aprendizaje Autónomo)** course as part of the **Data Science Program at Tecnológico de Costa Rica (TEC)**.
+This project was developed for the **Machine Learning (Aprendizaje Autónomo)** course as part of the **Data Science Program at Tecnológico de Costa Rica (TEC)**.
 
 The main objective was to learn and apply the basic concepts behind convolutional neural networks (CNNs) by building a binary image classification model using mammography images.
 
